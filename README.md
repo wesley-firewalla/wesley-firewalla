@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesley-firewalla&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wesley-firewalla/wesley-firewalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
